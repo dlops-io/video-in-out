@@ -1,2 +1,2 @@
-# text-to-image
- DLOps: Text to Image
+# Display Videos in Frontend
+ DLOps: Display Videos in frontend
